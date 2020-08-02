@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ohusEngineer/precache-manifest.9f7e56645228261395635d2446232aa4.js"
+  "/ohusEngineer/precache-manifest.56d29329082675f00ca3bf71123c801d.js"
 );
 
 self.addEventListener('message', (event) => {
